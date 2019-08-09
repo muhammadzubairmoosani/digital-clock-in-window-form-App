@@ -1,0 +1,9 @@
+c:\users\zubair\documents\visual studio 2015\Projects\ProjectOfDigitalClock\ProjectOfDigitalClock\bin\Debug\ProjectOfDigitalClock.exe.config
+c:\users\zubair\documents\visual studio 2015\Projects\ProjectOfDigitalClock\ProjectOfDigitalClock\bin\Debug\ProjectOfDigitalClock.exe
+c:\users\zubair\documents\visual studio 2015\Projects\ProjectOfDigitalClock\ProjectOfDigitalClock\bin\Debug\ProjectOfDigitalClock.pdb
+c:\users\zubair\documents\visual studio 2015\Projects\ProjectOfDigitalClock\ProjectOfDigitalClock\obj\Debug\ProjectOfDigitalClock.csprojResolveAssemblyReference.cache
+c:\users\zubair\documents\visual studio 2015\Projects\ProjectOfDigitalClock\ProjectOfDigitalClock\obj\Debug\ProjectOfDigitalClock.Form1.resources
+c:\users\zubair\documents\visual studio 2015\Projects\ProjectOfDigitalClock\ProjectOfDigitalClock\obj\Debug\ProjectOfDigitalClock.Properties.Resources.resources
+c:\users\zubair\documents\visual studio 2015\Projects\ProjectOfDigitalClock\ProjectOfDigitalClock\obj\Debug\ProjectOfDigitalClock.csproj.GenerateResource.Cache
+c:\users\zubair\documents\visual studio 2015\Projects\ProjectOfDigitalClock\ProjectOfDigitalClock\obj\Debug\ProjectOfDigitalClock.exe
+c:\users\zubair\documents\visual studio 2015\Projects\ProjectOfDigitalClock\ProjectOfDigitalClock\obj\Debug\ProjectOfDigitalClock.pdb
